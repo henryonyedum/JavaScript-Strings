@@ -112,6 +112,6 @@ Back to our exercise
 	* search()
 
 	
-Hint: Use google, it is your friend:) And this is also a good place to read the documentation on JavaScript [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+Hint: Use google, it is your friend:) And [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) is also a good place to read the documentation on JavaScript 
 
 
