@@ -96,7 +96,8 @@ Back to our exercise
 
 1. Open *strings-2.js*. 
 2. Add another prompt asking the user to enter some text and assign it to a constant variable named *userText*
-3. Replace any 'a' characters in the user text with a '@'. Then use `document.getElementById('output').textContent` to print the altered text to the page. Hint: Research `replaceAll()`
+3. Replace any 'a' characters in the user text with a '@'. Hint: Research `replaceAll()`
+4. Use `document.getElementById('output').textContent` to print the altered text to the page. 
 6. Use git to add/commit/push the changes
 7. All members use `git pull` to pull down the changes from the remote repository
 
